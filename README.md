@@ -1,5 +1,5 @@
 
-# CSE307: Programming Abstractions (State University of New York, Korea, Fall 2026)
+# CSE307: Principles of Programming Languages (State University of New York, Korea, Fall 2026)
 
 # Course overview
 
@@ -23,7 +23,7 @@ This repository is publicly accessible and hosts courseware that will be increme
 
 # Prerequisites
 
-C or higher in CSE 214; CSE major
+**Prerequisite(s):** C or higher: [CSE 214](https://catalog.stonybrook.edu/preview_course_nopop.php?catoid=8&coid=9302), [CSE 216](https://catalog.stonybrook.edu/preview_course_nopop.php?catoid=8&coid=9304) or [CSE 260](https://catalog.stonybrook.edu/preview_course_nopop.php?catoid=8&coid=9307); CSE or DAS major.
 
 
 
@@ -162,5 +162,4 @@ Each student must pursue his or her academic goals honestly and be personally ac
 
 SUNY Korea expects students to respect the rights,
 privileges, and property of other people. Faculty are required to report to the Department of Academic Affairs any disruptive behavior that interrupts their ability to teach, compromises the safety of the learning environment, or inhibits students' ability to learn.
-
 
