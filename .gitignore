@@ -1,0 +1,14 @@
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+*.icloud
+
+# Keynote presentations
+*.key
