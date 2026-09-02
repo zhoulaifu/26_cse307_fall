@@ -45,20 +45,22 @@ OCaml learning material: <https://ocaml.org/learn/>
 # Course overall schedule
 
 - **Lectures:** Mondays and Wednesdays, 3:30 PM – 4:50 PM, Room A115
-- **Instructor Office Hours:** Mondays and Wednesdays, 2:25 PM – 3:25 PM
 
 # Instructor
 
 **Zhoulai Fu**  
-Email: \<zhoulai dot fu at sunykorea dot ac dot kr\>  
+- **Email:** \<zhoulai dot fu at sunykorea dot ac dot kr\>
+
+- **Office Hours:** Mondays and Wednesdays, 2:25 PM – 3:25 PM
+
 
 # TAs and Office Hours
-- **Jaeyong Jung** (Graduate Full TA)
+- **Jaeyong Jung**
   - **Email:** [jaeyong.jung@stonybrook.edu](mailto:jaeyong.jung@stonybrook.edu)
-- **Hyeonsu Shim** (Undergraduate Credit-Bearing TA)
+  - **Office Hours:** Monday 07:50 – 10:20, Wednesday 07:50 – 10:20, Friday 09:00 – 12:00
+- **Hyeonsu Shim**
   - **Email:** [hyeonsu.shim@stonybrook.edu](mailto:hyeonsu.shim@stonybrook.edu)
-
-TA office hours are currently being coordinated and will be announced once finalized.
+  - **Office Hours:** Monday 11:00 – 13:15, Tuesday 13:00 – 16:30, Wednesday 11:00 – 13:15
 
 
 # Zoom (just in case)
@@ -162,4 +164,3 @@ Each student must pursue his or her academic goals honestly and be personally ac
 
 SUNY Korea expects students to respect the rights,
 privileges, and property of other people. Faculty are required to report to the Department of Academic Affairs any disruptive behavior that interrupts their ability to teach, compromises the safety of the learning environment, or inhibits students' ability to learn.
-
