@@ -1,4 +1,4 @@
-# Homework: Syntax of Programming
+# Homework01: Syntax of Programming
 
 ## Part 1: Regular Expressions (25 points)
 
