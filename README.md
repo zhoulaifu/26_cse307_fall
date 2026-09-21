@@ -49,7 +49,7 @@ Recommended language-specific resources include:
 
 ## Zoom Meeting
 
-[Join the Zoom meeting](https://stonybrook.zoom.us/j/99671076796?pwd=TGFuZ1lzSXpnSWlpMDB2a2tCRmozUT09)
+[Join the Zoom meeting](https://stonybrook.zoom.us/j/91398032612?pwd=QkxHOVpJbTRUVlZmVnV5TjdFTXpDUT09)
 
 ## Numerical Grading
 
