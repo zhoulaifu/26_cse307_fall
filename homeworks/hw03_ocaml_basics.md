@@ -6,6 +6,20 @@ Find the `#` prompt in the OCaml toplevel. The prompt is not part of the OCaml l
 
 Explain in English the role of the double semicolon `;;` in OCaml.
 
+**Answer:**
+
+```text
+
+
+
+
+
+
+
+
+
+```
+
 ## Exercise 2: Expressions (27 points)
 
 ### Built-in Types
@@ -191,6 +205,15 @@ Complete the following definition:
 ```ocaml
 let rec move n src dst aux =
   (* TODO *)
+
+
+
+
+
+
+
+
+
 
 
 
