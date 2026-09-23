@@ -127,11 +127,25 @@ Type each definition at the toplevel, followed by `;;` if it is not generated au
 
    **Hint:** In the toplevel, type `( **);;` to determine the type. The space before `**` ensures that it is not interpreted as the beginning of a comment.
 
+   ```ocaml
+   (* Your answer:
+
+
+
+
+   *)
+   ```
+
 2. Implement a factorial function `factorial` with the type signature `int -> int`. For example, evaluating the factorial of 5 should produce 120. Complete the following definition:
 
    ```ocaml
    let rec factorial n =
      (* TODO *)
+
+
+
+
+
    ```
 
 3. Design a Taylor expansion function `taylor` with the type `float -> int -> float`. The function should compute the Taylor expansion of $e^x$ around 0 using the first `n` terms. The call `taylor 0.1 3` should return exactly `1.105`. The call `taylor 0.1 10` should return a value close to, but different from, `1.105`.
@@ -141,6 +155,11 @@ Type each definition at the toplevel, followed by `;;` if it is not generated au
    ```ocaml
    let rec taylor x n =
      (* TODO *)
+
+
+
+
+
 
    (* Result of taylor 0.1 10 is TODO *)
    ```
@@ -172,6 +191,15 @@ Complete the following definition:
 ```ocaml
 let rec move n src dst aux =
   (* TODO *)
+
+
+
+
+
+
+
+
+
 
 (* For testing *)
 let test () =
